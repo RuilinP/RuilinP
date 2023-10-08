@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anime, comics, games, model kits, plastic figures
 - 📫 How to reach me: www.ruilinp.com
 - 😄 Pronouns: It
-- ⚡ Fun fact: eats 2+ raw lemon each day 
+- ⚡ Fun fact: eats 1+ raw lemon each day 
