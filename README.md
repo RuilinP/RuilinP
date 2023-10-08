@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![RuilinP's Stats](https://github-readme-stats.vercel.app/api?username=RuilinP&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![RuilinP's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuilinP&theme=vue-dark&hide_border=false)
+![RuilinP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RuilinP&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
